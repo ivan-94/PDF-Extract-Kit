@@ -19,3 +19,5 @@ test*
 models/Layout/*
 models/MFD/*
 models/MFR/*
+.DS_Store
+._.DS_Store
